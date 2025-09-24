@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+pypdf
+python-multipart
+chromadb
+langchain_ollama
+unstructured[docx]
+python-docx
+pypandoc
